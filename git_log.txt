@@ -1,0 +1,248 @@
+commit c6961ac79b58f4ebcf7d261825a2d36c79951328
+Merge: eb11246 0df4322
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 10 22:17:31 2024 -0700
+
+    Merge pull request #7 from JessieGuijosa/feature-about
+    
+    Update index.html
+
+commit 0df432235f1386ad0ddcf304e40a7872233b0978
+Merge: 056f36c eb11246
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 10 22:17:22 2024 -0700
+
+    Merge branch 'main' into feature-about
+
+commit 056f36c9994b49c2b26a55742e90a83d75833368
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 10 22:15:55 2024 -0700
+
+    Update index.html
+
+commit 5f767ee267553b6234c8df293c910dfa5f9dfb45
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 10 21:56:31 2024 -0700
+
+    Update index.html
+
+commit eb11246c8e7e9d48389cf6fcfaf8fac4a0456add
+Merge: 0ba6cd4 a2772f6
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:11:47 2024 -0700
+
+    Merge pull request #5 from JessieGuijosa/index-fix
+    
+    Update index.html
+
+commit a2772f63389462d5fb424563eb7403978c648ee3
+Merge: 1744286 0ba6cd4
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:11:01 2024 -0700
+
+    Merge branch 'main' into index-fix
+
+commit 1744286282ba22cd8ed98ecbb4030ec10420dbad
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:10:15 2024 -0700
+
+    Update index.html
+
+commit 0ba6cd464503b3f1ee8df9568c31b8475ecd54d3
+Merge: 4f185b9 7e563b8
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:08:02 2024 -0700
+
+    Merge pull request #4 from JessieGuijosa/index-fix
+    
+    Update index.html
+
+commit 7e563b8250f28c798a5d6c5aea07156de88a0893
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:07:31 2024 -0700
+
+    Update index.html
+
+commit 1af3afc0fa4a08b772c307250255bad3e2396680
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:07:20 2024 -0700
+
+    Update index.html
+
+commit 4f185b99f4771d609f3f75c029b7b058bddc2545
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:05:56 2024 -0700
+
+    Update index.html
+
+commit a844bf6dcae656703652604140070eba185540bb
+Merge: f4b14b7 c2e3952
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 15:01:33 2024 -0700
+
+    Merge pull request #3 from JessieGuijosa/feature-about-me
+    
+    Feature about me
+
+commit c2e3952ada4d5785aea5e62d14366d697d60e05c
+Merge: 005692b f4b14b7
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 14:59:53 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit f4b14b7889198a24edd71d90e923a8549bebe5b5
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 14:43:33 2024 -0700
+
+    git checkout feature-about-me
+
+commit 781ab63c2ad4d64ac2ef7105e459524a5ec7a3f5
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Sep 4 14:39:21 2024 -0700
+
+    git branch feature-about-me
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit d6b2ec2de384d07c568a52e1686fd3a073d2c51a
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:42:10 2024 -0700
+
+    git log --all --branches > git_log.txt
+
+commit 4fb2253ff0f8f696f3a2b351c6da73e824228143
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:39:14 2024 -0700
+
+    git log --all--branches>git_log.txt
+
+commit 8a96e24e14253761b101bd54ed12640b20620f27
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:37:17 2024 -0700
+
+    git log --all --branches > git_log.txt
+
+commit 5f02eeae1d62f3aeef0c1e5f8c1e4f748eb43258
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:34:32 2024 -0700
+
+    git add git_log.txt
+
+commit e876c2890c98dfd6e119f2fb4eadefb24af0bf8a
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:32:44 2024 -0700
+
+     repo-location.txt
+
+commit 48d2fac5ae6dc1ea9eba31ed4e77965f36574526
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:31:50 2024 -0700
+
+    git add repo-location.txt
+
+commit 4d6513f60ab809fe8926b1ac1d2a5197b8ae1efc
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:28:47 2024 -0700
+
+    git commit -m "Commit my git_log.txt"
+
+commit 833d636aeb5b5ffe1389aa522707913fe54142e4
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:28:13 2024 -0700
+
+    git add git_log.txt
+
+commit 6d90fca76d614cb4124ed856a32cb6a8dba8397e
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:25:33 2024 -0700
+
+    git log --all--branches> git_log.txt
+
+commit bac15ee0b600db411d97995be2f21557ee8997a9
+Merge: ba7e638 7c09d6f
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:23:32 2024 -0700
+
+    Merge pull request #2 from JessieGuijosa/index-fix
+    
+    index.html
+
+commit 7c09d6f022a1c83ef3799c9fb2097c55321389e4
+Merge: 2493dd9 ba7e638
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:23:16 2024 -0700
+
+    Merge branch 'main' into index-fix
+
+commit 2493dd9f38cc8eb93e697c1957cfb948c87fbbeb
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:15:26 2024 -0700
+
+    index.html
+
+commit ba7e638a783d7e0aba0b377c7d4bda17da6471c6
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Tue Sep 3 11:12:38 2024 -0700
+
+    index.html
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 2484ec644115b82a7a921392a6da34bb07a5991e
+Merge: ad12a92 bf8d6ed
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Aug 28 15:48:02 2024 -0700
+
+    Merge branch 'main' of https://github.com/JessieGuijosa/CS3338-second-projects
+
+commit ad12a92035b965c456ea78fc4f2ccec997367f4e
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Aug 28 15:44:35 2024 -0700
+
+    Commit my README
+
+commit bf8d6eda50171de32f02f14e5a25dbf2b968e107
+Merge: 1d2bfc0 dda98f5
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Aug 28 15:36:26 2024 -0700
+
+    Merge pull request #1 from JessieGuijosa/info-fill
+    
+     index.html
+
+commit dda98f5b0a5634c1ec26af2f924a540ff77062ed
+Author: JessieGuijosa <jessieguijosa@gmail.com>
+Date:   Wed Aug 28 15:35:52 2024 -0700
+
+     index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
